@@ -1,0 +1,7 @@
+Thank you for choosing our airline
+You are now set for the first class
+your identification number is: 
+yor id is : 167912374
+the name is : yemi
+your social security number is :876633
+total number of people on ticket is :7

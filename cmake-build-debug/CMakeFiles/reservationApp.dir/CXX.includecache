@@ -1,0 +1,90 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/emmanueladebayo/Desktop/csci 2/reservationApp/businessClass.h
+iostream
+-
+string
+-
+economyClass.h
+/Users/emmanueladebayo/Desktop/csci 2/reservationApp/economyClass.h
+firstClass.h
+/Users/emmanueladebayo/Desktop/csci 2/reservationApp/firstClass.h
+
+/Users/emmanueladebayo/Desktop/csci 2/reservationApp/createTicket.h
+iostream
+-
+string
+-
+vector
+-
+fstream
+-
+customer.h
+/Users/emmanueladebayo/Desktop/csci 2/reservationApp/customer.h
+firstClass.h
+/Users/emmanueladebayo/Desktop/csci 2/reservationApp/firstClass.h
+businessClass.h
+/Users/emmanueladebayo/Desktop/csci 2/reservationApp/businessClass.h
+economyClass.h
+/Users/emmanueladebayo/Desktop/csci 2/reservationApp/economyClass.h
+
+/Users/emmanueladebayo/Desktop/csci 2/reservationApp/customer.h
+iostream
+-
+string
+-
+
+/Users/emmanueladebayo/Desktop/csci 2/reservationApp/economyClass.h
+iostream
+-
+string
+-
+firstClass.h
+/Users/emmanueladebayo/Desktop/csci 2/reservationApp/firstClass.h
+businessClass.h
+/Users/emmanueladebayo/Desktop/csci 2/reservationApp/businessClass.h
+
+/Users/emmanueladebayo/Desktop/csci 2/reservationApp/firstClass.h
+iostream
+-
+string
+-
+customer.h
+/Users/emmanueladebayo/Desktop/csci 2/reservationApp/customer.h
+businessClass.h
+/Users/emmanueladebayo/Desktop/csci 2/reservationApp/businessClass.h
+economyClass.h
+/Users/emmanueladebayo/Desktop/csci 2/reservationApp/economyClass.h
+fstream
+-
+
+/Users/emmanueladebayo/Desktop/csci 2/reservationApp/main.cpp
+iostream
+-
+fstream
+-
+stdexcept
+-
+string
+-
+fstream
+-
+ostream
+-
+customer.h
+/Users/emmanueladebayo/Desktop/csci 2/reservationApp/customer.h
+firstClass.h
+/Users/emmanueladebayo/Desktop/csci 2/reservationApp/firstClass.h
+businessClass.h
+/Users/emmanueladebayo/Desktop/csci 2/reservationApp/businessClass.h
+economyClass.h
+/Users/emmanueladebayo/Desktop/csci 2/reservationApp/economyClass.h
+createTicket.h
+/Users/emmanueladebayo/Desktop/csci 2/reservationApp/createTicket.h
+
